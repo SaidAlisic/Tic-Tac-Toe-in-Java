@@ -1,6 +1,5 @@
-// A more "linear" way of doing Tic-Tac-Toe, loop for restarting the game doesn't work though! :(
-
-import java.util.*;              // For creating Scanner object
+import java.util.Scanner;              // For creating Scanner object
+import java.util.Arrays;
 
 public class TicTacToe
 {  
